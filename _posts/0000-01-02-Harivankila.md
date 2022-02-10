@@ -1,5 +1,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Chelsea are European Champions"
 Use the left arrow to go back!
